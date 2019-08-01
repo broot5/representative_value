@@ -1,7 +1,7 @@
 use std::collections::HashMap;
 
 fn main() {
-    let v = vec![30, 92, 100, 53, 42, 60, 49];
+    let v = vec![30, 92, 100, 53, 42, 60, 49]; // just random number
 
     let average = get_average(&v);
     let median = get_median(&v);
